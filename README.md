@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lucaselliott9
-- 👀 I’m interested in ... Blockchain
+- 👋 Hi, I’m Lucas Elliott
+- 👀 I’m interested in ... Blockchain and finance
 - 🌱 I’m currently learning ... Solidity and rust
 - 💞️ I’m looking to collaborate on ... Building Blockchain Dapps
 - 📫 How to reach me ... eli4990@mylaurier.ca
